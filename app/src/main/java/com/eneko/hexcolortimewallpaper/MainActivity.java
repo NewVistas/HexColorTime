@@ -1,4 +1,4 @@
-package com.eneko.hexcolortimewallpaper;
+package io.earthbound.rndcolorlivewallpaper;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

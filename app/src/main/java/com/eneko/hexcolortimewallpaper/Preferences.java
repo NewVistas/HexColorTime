@@ -1,4 +1,4 @@
-package com.eneko.hexcolortimewallpaper;
+package io.earthbound.rndcolorlivewallpaper;
 
 import android.app.WallpaperManager;
 import android.content.ComponentName;

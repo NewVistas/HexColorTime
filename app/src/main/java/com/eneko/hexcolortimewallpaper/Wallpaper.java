@@ -1,4 +1,4 @@
-package com.eneko.hexcolortimewallpaper;
+package io.earthbound.rndcolorlivewallpaper;
 
 import android.annotation.SuppressLint;
 import android.graphics.Canvas;

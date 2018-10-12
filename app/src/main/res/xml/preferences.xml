@@ -20,7 +20,7 @@
             android:entries="@array/textTypefaces"
             android:entryValues="@array/textTypefacesValues"/>
 
-        <com.eneko.hexcolortimewallpaper.TextSizePreference
+        <io.earthbound.rndcolorlivewallpaper.TextSizePreference
             android:title="@string/textSize"
             android:summary="@string/textSizeInfo"/>
 

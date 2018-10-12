@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">HexColorTime Wallpaper</string>
+    <string name="app_name" translatable="false">RNDcolor Wallpaper</string>
     <string name="appearanceTitle">Aspetto</string>
     <string name="textAppearance">Aspetto del testo</string>
     <string name="textAppearanceInfo">Cambia l\'aspetto del testo</string>

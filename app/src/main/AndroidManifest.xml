@@ -19,7 +19,7 @@
         </activity>
         <service
             android:name=".Wallpaper"
-            android:label="HexColorTime Wallpaper"
+            android:label="RNDcolor Wallpaper"
             android:permission="android.permission.BIND_WALLPAPER" >
             <intent-filter>
                 <action android:name="android.service.wallpaper.WallpaperService" />

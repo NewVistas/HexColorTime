@@ -2,12 +2,11 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 25
-    buildToolsVersion "25.0.1"
     defaultConfig {
         applicationId "io.earthbound.rndcolorlivewallpaper"
         minSdkVersion 15
         targetSdkVersion 25
-        versionCode 2
+        versionCode 1
         versionName "1.1"
     }
     buildTypes {
@@ -23,5 +22,5 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:appcompat-v7:25.1.0'
+    implementation 'com.android.support:appcompat-v7:25.1.0'
 }

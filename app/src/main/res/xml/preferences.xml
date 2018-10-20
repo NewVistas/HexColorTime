@@ -35,6 +35,11 @@
             android:title="@string/apply"
             android:summary="@string/applyInfo"/>
 
+        <Preference android:title="Open source repository URL" >
+            <intent android:action="android.intent.action.VIEW"
+                android:data="http://s.earthbound.io/RNDcolorWall" />
+        </Preference>
+
     </PreferenceCategory>
 
 </PreferenceScreen>

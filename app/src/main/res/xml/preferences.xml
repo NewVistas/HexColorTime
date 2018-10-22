@@ -35,9 +35,11 @@
             android:title="@string/apply"
             android:summary="@string/applyInfo"/>
 
-        <Preference android:title="Open source repository URL" >
+        <Preference
+            android:key=""
+            android:title="See source code on web" >
             <intent android:action="android.intent.action.VIEW"
-                android:data="http://s.earthbound.io/RNDcolorWall" />
+                android:data="https://github.com/urtxintxa/HexColorTime" />
         </Preference>
 
     </PreferenceCategory>

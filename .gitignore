@@ -1,6 +1,7 @@
 # Built application files
 *.apk
 *.ap_
+*.aab
 
 # Files for the ART/Dalvik VM
 *.dex
@@ -38,3 +39,6 @@ captures/
 
 # Keystore files
 *.jks
+
+Mac files
+.DS_Store

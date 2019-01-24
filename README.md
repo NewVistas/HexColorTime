@@ -1,7 +1,5 @@
 # Random Color Live Wallpaper
 
-Work in progress (pre alpha), additional functionality planned. Here is the [project board](https://github.com/earthbound19/random-color-live-wallpaper-android/projects/1).
-
 Solid color wallpaper that changes color (animates), for Android.
 
 Uses current time in format hh:mm:ss as hex color code (e.g. 11:07 PM (23:07 military time) and 07 seconds as hex #230751, a dark purple) to change a solid color wallpaper every second. Has several display options and an invert color option.
@@ -25,3 +23,6 @@ Uses current time in format hh:mm:ss as hex color code (e.g. 11:07 PM (23:07 mil
 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) license
 
 This is a fork of the free and open source app [HexColorTime](https://f-droid.org/app/com.eneko.hexcolortimewallpaper) (for which here is a link to [the source repo](https://github.com/urtxintxa/HexColorTime)).
+
+# To Do
+Work progress is given in the [project board](https://github.com/earthbound19/random-color-live-wallpaper-android/projects/1).
